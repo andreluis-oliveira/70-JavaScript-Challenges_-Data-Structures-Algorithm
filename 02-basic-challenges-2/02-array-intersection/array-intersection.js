@@ -1,3 +1,3 @@
 function arrayIntersection() {}
 
-module.exports = arrayIntersection;
+module.exports = arrayIntersection

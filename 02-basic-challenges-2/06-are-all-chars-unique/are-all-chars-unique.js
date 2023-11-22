@@ -1,3 +1,3 @@
 function areAllCharactersUnique() {}
 
-module.exports = areAllCharactersUnique;
+module.exports = areAllCharactersUnique

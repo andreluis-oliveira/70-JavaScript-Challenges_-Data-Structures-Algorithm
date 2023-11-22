@@ -1,4 +1,4 @@
-const fizzBuzzArray = require('./fizzbuzz-array');
+const fizzBuzzArray = require('./fizzbuzz-array')
 
 test('FizzBuzz Array', () => {
   expect(fizzBuzzArray(15)).toEqual([
@@ -17,5 +17,5 @@ test('FizzBuzz Array', () => {
     13,
     14,
     'FizzBuzz',
-  ]);
-});
+  ])
+})

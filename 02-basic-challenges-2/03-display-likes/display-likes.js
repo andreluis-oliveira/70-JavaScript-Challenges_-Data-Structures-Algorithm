@@ -1,3 +1,3 @@
 function displayLikes() {}
 
-module.exports = displayLikes;
+module.exports = displayLikes

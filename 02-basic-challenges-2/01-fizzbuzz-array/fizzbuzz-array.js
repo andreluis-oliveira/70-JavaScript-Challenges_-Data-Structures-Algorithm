@@ -1,3 +1,3 @@
 function fizzBuzzArray() {}
 
-module.exports = fizzBuzzArray;
+module.exports = fizzBuzzArray

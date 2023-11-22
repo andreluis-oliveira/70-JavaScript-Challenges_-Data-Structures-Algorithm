@@ -1,3 +1,3 @@
 function validateEmail() {}
 
-module.exports = validateEmail;
+module.exports = validateEmail

@@ -1,3 +1,3 @@
 function findMissingLetter() {}
 
-module.exports = findMissingLetter;
+module.exports = findMissingLetter

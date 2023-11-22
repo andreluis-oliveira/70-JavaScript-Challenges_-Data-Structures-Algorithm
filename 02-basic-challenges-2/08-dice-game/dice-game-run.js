@@ -1,5 +1,5 @@
-const diceGameSimulation = require('./dice-game');
+const diceGameSimulation = require('./dice-game')
 
-const result = diceGameSimulation(10);
+const result = diceGameSimulation(10)
 
-console.log(result);
+console.log(result)

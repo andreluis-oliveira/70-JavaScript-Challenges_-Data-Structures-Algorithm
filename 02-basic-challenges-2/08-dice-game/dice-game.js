@@ -1,3 +1,3 @@
 function diceGameSimulation() {}
 
-module.exports = diceGameSimulation;
+module.exports = diceGameSimulation

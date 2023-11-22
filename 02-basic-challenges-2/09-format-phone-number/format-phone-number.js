@@ -1,3 +1,3 @@
 function formatPhoneNumber() {}
 
-module.exports = formatPhoneNumber;
+module.exports = formatPhoneNumber

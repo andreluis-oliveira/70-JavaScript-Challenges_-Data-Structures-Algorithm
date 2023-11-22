@@ -1,3 +1,3 @@
 function findFirstNonRepeatingCharacter() {}
 
-module.exports = findFirstNonRepeatingCharacter;
+module.exports = findFirstNonRepeatingCharacter

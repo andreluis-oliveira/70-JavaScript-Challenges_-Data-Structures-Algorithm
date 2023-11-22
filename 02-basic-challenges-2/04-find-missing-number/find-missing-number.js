@@ -1,3 +1,3 @@
 function findMissingNumber() {}
 
-module.exports = findMissingNumber;
+module.exports = findMissingNumber
