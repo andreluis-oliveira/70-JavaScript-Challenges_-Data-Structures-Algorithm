@@ -1,3 +1,4 @@
+/* eslint-disable jest/no-conditional-expect */
 const diceGameSimulation = require('./dice-game')
 
 describe('diceGameSimulation', () => {
